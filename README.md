@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi I'm Prottoy Mankin 🙂‍↔️
+Quite developer who prefers code over noise.
 
 <!--
 **prottoymankin/prottoymankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
