@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prottoy Mankin</h1>
+___
 
 <p align="center">
   Current student learning Frontend Development. Building interactive websites with HTML, CSS, JavaScript, and React. Next goal: Backend & Full-Stack Development.
 </p>
-
+___
 
 <p align="center">
   <a href="prottoy032020@gmail.com">
@@ -18,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+___
 
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center">
