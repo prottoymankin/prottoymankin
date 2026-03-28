@@ -4,8 +4,6 @@
   Current student learning Frontend Development. Building interactive websites with HTML, CSS, JavaScript, and React. Next goal: Backend & Full-Stack Development.
 </p>
 
----
-
 <p align="center">
   <a href="prottoy032020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
