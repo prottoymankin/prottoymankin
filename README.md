@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prottoy Mankin</h1>
----
 
 <p align="center">
   Current student learning Frontend Development. Building interactive websites with HTML, CSS, JavaScript, and React. Next goal: Backend & Full-Stack Development.
 </p>
 
----
 
 <p align="center">
   <a href="prottoy032020@gmail.com">
@@ -21,7 +19,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center">
