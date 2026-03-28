@@ -1,6 +1,6 @@
 <h1>
   Hi I'm 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&width=400&lines=Prottoy+Mankin;Aspiring+Full+Stack+Developer" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&vCenter=true&height=40&lines=Prottoy+Mankin" />
 </h1>
 
 <!--
