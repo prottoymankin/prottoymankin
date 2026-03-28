@@ -2,8 +2,7 @@
 ---
 
 <p align="center">
-Frontend Developer focused on React and modern JavaScript.<br>
-I build clean and interactive web applications using APIs.
+  Current student learning Frontend Development. Building interactive websites with HTML, CSS, JavaScript, and React. Next goal: Backend & Full-Stack Development.
 </p>
 
 ---
