@@ -1,5 +1,6 @@
-# Hi I'm Prottoy Mankin 🙂‍↔️
-Quite developer who prefers code over noise.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=500&lines=Hi,+I'm+Prottoy+Mankin;Frontend+Developer;React+Lover">
+</p>
 
 <!--
 **prottoymankin/prottoymankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
