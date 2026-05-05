@@ -14,6 +14,3 @@ Frontend Developer passionate about building fast and modern web applications.<b
 ![](https://github-readme-stats.vercel.app/api?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com?user=ProttoyMankin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=ProttoyMankin&icon=0&color=0)](https://komarev.com/ghpvc/?username=ProttoyMankin)
