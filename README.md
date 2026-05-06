@@ -7,7 +7,10 @@
 </h1>
 
 # 💫 About Me:
-Frontend Developer passionate about building fast and modern web applications.<br><br>⚡ Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>📈 Goal: Becoming a full-stack developer
+<p>
+CSE student and Frontend Developer passionate about building modern, responsive web applications.  
+I love exploring new technologies and improving my development skills every day.
+</p>
 
 
 ## 🌐 Socials:
