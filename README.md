@@ -1,6 +1,7 @@
 ![Profile](./Banner.png)
 
 <h1 align="center">Hi 👋, I'm Prottoy Mankin</h1>
+<p align="center">Fronted Developer</p>
 
 # 💫 About Me:
 Frontend Developer passionate about building fast and modern web applications.<br><br>⚡ Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>📈 Goal: Becoming a full-stack developer
