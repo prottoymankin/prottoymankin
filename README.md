@@ -27,9 +27,11 @@ I love exploring new technologies and improving my development skills every day.
 </div>
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProttoyMankin&theme=dark" /><br/>
-  <img src="https://streak-stats.demolab.com?user=ProttoyMankin&theme=dark" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&theme=dark&layout=compact" />
-</p>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://streak-stats.demolab.com?user=ProttoyMankin&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
 
