@@ -2,6 +2,7 @@
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
+  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Developer;Aspiring+MERN+Stack+Developer" />
 </h1>
 
