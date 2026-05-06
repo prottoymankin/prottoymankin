@@ -23,8 +23,8 @@ I love exploring new technologies and improving my development skills every day.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Prottoy.Mankin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prottoy-mankin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/prottoymankin13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prottoy032020@gmail.com)
 
 ## 📊 GitHub Stats:
-<div align="center"> 
+<align="center"> 
   ![](https://github-readme-stats.vercel.app/api?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://streak-stats.demolab.com?user=ProttoyMankin&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+</>
