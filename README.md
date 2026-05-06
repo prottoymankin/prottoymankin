@@ -12,6 +12,9 @@ CSE student and Frontend Developer passionate about building modern, responsive 
 I love exploring new technologies and improving my development skills every day.
 </p>
 
+-  Currently exploring Express.js, Node.js, MongoDB, and APIs  
+-  Working on hands-on learning projects to improve my development skills  
+-  I have learned HTML, CSS, JavaScript, React, and Next.js  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Prottoy.Mankin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prottoy-mankin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prottoy032020@gmail.com) 
