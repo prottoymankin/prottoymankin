@@ -1,3 +1,5 @@
+![Profile](./Banner.png)
+
 <h1 align="center">Hi 👋, I'm Prottoy Mankin</h1>
 
 # 💫 About Me:
