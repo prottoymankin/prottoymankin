@@ -1,12 +1,9 @@
 ![Profile](./Banner.png)
 
-<p align="center">
+<h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Developer;Aspiring+MERN+Stack+Developer" />
-</p>
+</h1>
 
 # 💫 About Me:
 Frontend Developer passionate about building fast and modern web applications.<br><br>⚡ Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>📈 Goal: Becoming a full-stack developer
