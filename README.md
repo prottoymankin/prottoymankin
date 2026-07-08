@@ -12,11 +12,11 @@
 I'm a CSE student and an aspiring Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy solving real-world problems, learning new technologies, and continuously improving my skills by building practical projects.
 </p>
 
-* 🌱 Currently improving my backend development, software engineering, and problem-solving skills
+* 🌱 Currently improving my backend development, and problem-solving skills
 * 💻 Building full-stack web applications with React, Next.js, Express.js, and MongoDB
 * 🛠️ Experienced with HTML, CSS, JavaScript, React, Next.js, Express.js, MongoDB, JWT, and BetterAuth
 * 🚀 Always exploring best practices for clean code, authentication, and scalable application development
-* 🎯 Goal: To become a skilled Full-Stack Software Developer and build impactful real-world applications
+* 🎯 Continuously improving my skills to become a skilled Full-Stack Developer with a strong focus on backend development.
 
 ## 🛠️ Tech Stack:
 <div align="center">
@@ -53,12 +53,15 @@ I'm a CSE student and an aspiring Full-Stack Web Developer passionate about buil
 
 </div>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com?user=ProttoyMankin&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=ProttoyMankin&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProttoyMankin&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&layout=compact&theme=tokyonight" height="170"/>
+
 </div>
 
