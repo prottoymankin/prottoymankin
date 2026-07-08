@@ -18,7 +18,7 @@ I'm a CSE student and an aspiring Full-Stack Web Developer passionate about buil
 * 🚀 Always exploring best practices for clean code, authentication, and scalable application development
 * 🎯 Continuously improving my skills to become a skilled Full-Stack Developer with a strong focus on backend development.
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stacks
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,12 +46,22 @@ I'm a CSE student and an aspiring Full-Stack Web Developer passionate about buil
 
 </div>
 
-## 🌐 Socials:
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Prottoy.Mankin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prottoy-mankin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/prottoymankin13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prottoy032020@gmail.com)
+## 🌐 Socials
 
-</div>
+<p align="center">
+  <a href="https://www.facebook.com/Prottoy.Mankin/">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/prottoy-mankin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://www.instagram.com/prottoymankin13/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="mailto:prottoy032020@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
