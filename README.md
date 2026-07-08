@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Aspiring+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Full-Stack+Developer+in+Progress;Backend-Focused+Learner;Always+Learning+New+Technologies" />
 </h1>
 
 ## 👨‍💻 About Me
@@ -57,11 +57,7 @@ I'm a CSE student and an aspiring Full-Stack Web Developer passionate about buil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProttoyMankin&show_icons=true&theme=tokyonight" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProttoyMankin&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProttoyMankin&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
