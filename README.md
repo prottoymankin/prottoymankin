@@ -3,18 +3,20 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+Developer;Aspiring+MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Aspiring+Full+Stack+Developer" />
 </h1>
 
-## 👨‍💻 About Me:
+## 👨‍💻 About Me
+
 <p>
-CSE student and Frontend Developer passionate about building modern, responsive web applications.  
-I love exploring new technologies and improving my development skills every day.
+I'm a CSE student and an aspiring Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy solving real-world problems, learning new technologies, and continuously improving my skills by building practical projects.
 </p>
 
--  Currently exploring Express.js, Node.js, MongoDB, and APIs  
--  Working on hands-on learning projects to improve my development skills  
--  I have learned HTML, CSS, JavaScript, React, and Next.js  
+* 🌱 Currently improving my backend development, software engineering, and problem-solving skills
+* 💻 Building full-stack web applications with React, Next.js, Express.js, and MongoDB
+* 🛠️ Experienced with HTML, CSS, JavaScript, React, Next.js, Express.js, MongoDB, JWT, and BetterAuth
+* 🚀 Always exploring best practices for clean code, authentication, and scalable application development
+* 🎯 Goal: To become a skilled Full-Stack Software Developer and build impactful real-world applications
 
 ## 🛠️ Tech Stack:
 <div align="center">
