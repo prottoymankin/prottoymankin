@@ -1,4 +1,4 @@
-![Profile](./main-cover.png)
+![Profile](./cover-3.png)
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
