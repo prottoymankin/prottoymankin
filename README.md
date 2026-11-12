@@ -1,7 +1,7 @@
 ![Profile](./banner.png)
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Prottoy Mankin
+  Hi, I'm Prottoy Mankin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Full-Stack+Developer+in+Progress;Backend-Focused+Learner" />
 </h1>
